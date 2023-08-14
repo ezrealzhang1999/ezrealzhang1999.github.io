@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from Imperial college london and royal college of art. My major is Innovation design engineering, and my research interest includes tangible media, human computer interaction, virtual reality and responsive enviroment.
+I'm a second year graduate student from Imperial College London and Royal College of Art. My major is Innovation design engineering, and my research interest includes tangible media, human computer interaction, virtual reality and responsive enviroment.
 
 I am very fortunate to be advised by [Prof. Green](https://www.imperial.ac.uk/people/stephen.green/) from Dyson school of design engineering, Imperial College London, and [Prof. Loudon](https://www.rca.ac.uk/more/staff/gareth-loudon/) from school of design, Royal College of Art.
 
